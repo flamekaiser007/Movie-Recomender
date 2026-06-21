@@ -1,0 +1,66 @@
+{
+  "users": {
+    "ae35265b-8421-47ad-85b1-6d6bc58ea080": {
+      "11551": {
+        "movie_id": 11551,
+        "title": "Small Soldiers",
+        "rating": 1,
+        "rated_at": "2026-06-20T15:26:18.095328+00:00"
+      },
+      "7450": {
+        "movie_id": 7450,
+        "title": "Titan A.E.",
+        "rating": 5,
+        "rated_at": "2026-06-20T15:26:21.782038+00:00"
+      },
+      "602": {
+        "movie_id": 602,
+        "title": "Independence Day",
+        "rating": 2,
+        "rated_at": "2026-06-20T15:26:27.202658+00:00"
+      },
+      "440": {
+        "movie_id": 440,
+        "title": "Aliens vs Predator: Requiem",
+        "rating": 3,
+        "rated_at": "2026-06-20T15:26:25.280861+00:00"
+      },
+      "80274": {
+        "movie_id": 80274,
+        "title": "Ender's Game",
+        "rating": 4,
+        "rated_at": "2026-06-20T15:26:29.378384+00:00"
+      },
+      "72431": {
+        "movie_id": 72431,
+        "title": "Red Tails",
+        "rating": 4,
+        "rated_at": "2026-06-20T15:30:44.418605+00:00"
+      },
+      "1251": {
+        "movie_id": 1251,
+        "title": "Letters from Iwo Jima",
+        "rating": 5,
+        "rated_at": "2026-06-20T15:30:48.655413+00:00"
+      },
+      "100402": {
+        "movie_id": 100402,
+        "title": "Captain America: The Winter Soldier",
+        "rating": 3,
+        "rated_at": "2026-06-20T15:30:52.173568+00:00"
+      },
+      "10105": {
+        "movie_id": 10105,
+        "title": "Saints and Soldiers",
+        "rating": 4,
+        "rated_at": "2026-06-20T15:30:53.336626+00:00"
+      },
+      "271110": {
+        "movie_id": 271110,
+        "title": "Captain America: Civil War",
+        "rating": 5,
+        "rated_at": "2026-06-20T15:30:56.177823+00:00"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+node_modules/
+
+similarity.pkl
+TMDB_all_movies.csv
